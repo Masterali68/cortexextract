@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+out/
+frontend/.next/
+
+# Env / secrets
+.env
+.env.local
+*.pem
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Test artifacts
+.coverage
+htmlcov/
+
+# Local runtime data
+dump.rdb
